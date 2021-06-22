@@ -2,8 +2,6 @@
     position: fixed;
     z-index: 22;
 }
-
-
 .carousel-caption{
 
     left: 50%;
@@ -15,12 +13,12 @@
     
 }
 #card{
-  padding-left: 25px;
+  padding-left: 50px;
   padding-top: 30px;
 }
 
 .container{
-    padding: 100px;
+    padding-left: 25px;
     padding-top: 30px;
 }
 .star{
@@ -36,4 +34,5 @@
     line-height: 20px;
 }
 
+    
     
