@@ -1,3 +1,9 @@
+.navbar{
+    position: fixed;
+    z-index: 22;
+}
+
+
 .carousel-caption{
 
     left: 50%;
